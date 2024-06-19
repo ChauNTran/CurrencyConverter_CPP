@@ -1,0 +1,3 @@
+﻿  CurrencyConversion.cpp
+C:\Users\chau\Documents\C++Projects\MyWeirdShit\CurrencyConversion\CurrencyConversion.cpp(137,1): warning C4717: 'StartBankTeller': recursive on all control paths, function will cause runtime stack overflow
+  CurrencyConversion.vcxproj -> C:\Users\chau\Documents\C++Projects\MyWeirdShit\CurrencyConversion\x64\Debug\CurrencyConversion.exe
